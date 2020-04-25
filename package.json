@@ -1,7 +1,7 @@
 {
-  "name": "klona",
+  "name": "@d-fischer/klona",
   "version": "1.1.1",
-  "repository": "lukeed/klona",
+  "repository": "d-fischer/klona",
   "description": "A tiny (366B) and fast utility to \"deep clone\" Objects, Arrays, Dates, RegExps, and more!",
   "module": "dist/klona.mjs",
   "unpkg": "dist/klona.min.js",
@@ -9,9 +9,8 @@
   "types": "klona.d.ts",
   "license": "MIT",
   "author": {
-    "name": "Luke Edwards",
-    "email": "luke.edwards05@gmail.com",
-    "url": "https://lukeed.com"
+    "name": "Daniel Fischer",
+    "email": "daniel@d-fischer.dev"
   },
   "files": [
     "*.d.ts",
