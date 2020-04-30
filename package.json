@@ -39,7 +39,7 @@
     "object"
   ],
   "devDependencies": {
-    "@d-fischer/bundt": "^1.0.2",
+    "@d-fischer/bundt": "^1.0.3",
     "esm": "3.2.25",
     "tap-spec": "5.0.0",
     "tape": "4.13.0"
