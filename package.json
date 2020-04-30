@@ -1,6 +1,6 @@
 {
   "name": "@d-fischer/klona",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "repository": "d-fischer/klona",
   "description": "A tiny (366B) and fast utility to \"deep clone\" Objects, Arrays, Dates, RegExps, and more!",
   "main": "dist/klona.js",
